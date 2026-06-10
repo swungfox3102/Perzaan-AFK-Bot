@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thundersmp.aternos.me",
-    "port": 25685,
+    "ip": "Thundersmp-P6EW.aternos.me",
+    "port": 28546
+  ,
     "version": "1.21.1"
   },
   "position": {
